@@ -7,4 +7,8 @@
   }
 * Datatype "Double" and Mathmetical Operation  
 * Datatype "Float" and Mathmetical Operation
-* Datatyoe "long" and Mathmetical Operation
+* Datatype "long" and Mathmetical Operation
+* Datatype "String" and implementation
+* Explre Console Class
+* Nameing Convenstion
+    - Pascale Nameing style
