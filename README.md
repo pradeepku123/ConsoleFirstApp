@@ -5,6 +5,6 @@
 * {
     int num1,num2,num3;
   }
-* Datatype <Double> and Mathmetical Operation  
-* Datatype <Float> and Mathmetical Operation
-* Datatyoe <long> and Mathmetical Operation
+* Datatype "Double" and Mathmetical Operation  
+* Datatype "Float" and Mathmetical Operation
+* Datatyoe "long" and Mathmetical Operation
